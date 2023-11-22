@@ -1,0 +1,60 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "usuario1",
+      "cpf": "11111111111",
+      "email": "usuario1@usuario.com",
+      "telefone": "11111-1111",
+      "dataNascimento": "01/01/2000",
+      "numeroResidencia": "023",
+      "complemento": "05"
+    },
+    {
+      "id": 2,
+      "nome": "Josias",
+      "cpf": "21111111111",
+      "email": "josias@siasjo.com",
+      "telefone": "11111-1111",
+      "dataNascimento": "09/09/1990",
+      "numeroResidencia": "033",
+      "complemento": "04"
+    }
+  ],
+  "proprietarios": [
+    {
+      "id": 1,
+      "nome": "proprietario1",
+      "email": "p1@email",
+      "idCinema": 1
+    },
+    {
+      "id": 2,
+      "nome": "proprietario2",
+      "email": "p2@email",
+      "idCinema": 2
+    }
+  ],
+  "administradores": [
+    {
+      "id": 1,
+      "nome": "usuario1",
+      "cpf": "11111111111",
+      "email": "usuario1@usuario.com",
+      "telefone": "11111-1111",
+      "dataNascimento": "01/01/2000",
+      "numeroResidencia": "023",
+      "complemento": "05"
+    },
+    {
+      "id": 2,
+      "nome": "usuario2",
+      "cpf": "11112221111",
+      "email": "usuario2@usuario.com",
+      "telefone": "1112211-1111",
+      "dataNascimento": "01/01/2000",
+      "numeroResidencia": "023",
+      "complemento": "05"
+    }
+  ]
+}
