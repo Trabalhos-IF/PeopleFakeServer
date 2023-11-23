@@ -56,23 +56,5 @@
       "numeroResidencia": "023",
       "complemento": "05"
     }
-  ],
-   "cinemas":[
-      {
-         "id":1,
-         "nome":"UCI Kinoplex",
-         "cnpj":"11111111111111",
-         "email": "UCIKinoplex@email.com",
-         "numSala": "7",
-         "telefone": "55548032"
-      },
-      {
-         "id":2,
-         "nome":"Josias cinemas",
-         "cnpj":"21111111111111",
-         "email": "Jocinemas@email.com",
-         "numSala": "5",
-         "telefone": "999558504"
-      }
-   ]
+  ]
 }
